@@ -48,59 +48,79 @@ Ted opened his status panel and read through the notifications. With time on his
 
 One notification was about the Quest [Deeprooted Conflict], that he received after the first attack from the soaring monkeys. He tapped it and a process began.
 
-[Deeprooted Conflict] Completed
-
-Petramus has stopped expanding his garden to rebuild his tower and is therefore no longer threatening the livelihood of the Soaring Monkeys.
-
-The Soaring Monkeys have ceased their attack on the garden.
-
-You have brought peace.
-
-Accessing environmental damage...
-Scanning area for casualties...
-Weighing resources..
-Determining stability...
-Estimating future conflict...
-Establising Peacebringer's influence...
-Calculating success rating...
-
-Success Rating -E- given.
-
-Accumulating Experience...
-
-Ted has reached Level 2 Respecialist!
-
-Soul Essence Density has increased.
-
-+ 1 Skill Point
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Deeprooted Conflict ] Completed                       │
+│                                                          │
+│  Petramus has stopped expanding his garden to rebuild    │
+│  his tower and is therefore no longer threatening the    │
+│  livelihood of the Soaring Monkeys.                      │
+│                                                          │
+│  The Soaring Monkeys have ceased their attack on the     │
+│  garden.                                                 │
+│                                                          │
+│  You have brought peace.                                 │
+│                                                          │
+│  Accessing environmental damage...                       │
+│  Scanning area for casualties...                         │
+│  Weighing resources..                                    │
+│  Determining stability...                                │
+│  Estimating future conflict...                           │
+│  Establishing Peacebringer's influence...                │
+│  Calculating success rating...                           │
+│                                                          │
+│  Success Rating -E- given.                               │
+│                                                          │
+│  Accumulating Experience...                              │
+│                                                          │
+│  Ted has reached Level 2 Respecialist!                   │
+│                                                          │
+│  Soul Essence Density has increased.                     │
+│                                                          │
+│  + 1 Skill Point                                         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 You gain levels through completing quests, it seems. Ted was thrilled to gain more leeway when choosing his Skills, but, without breaking a smile, he remained frowning.
 
-Level 2 Respecialist
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Level 2 Respecialist                                    │
+│                                                          │
+│  HP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│  MP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│                                                          │
+│  Status Effects:                                         │
+│  [ Peacebringer's Tranquil Mind ]                        │
+│  [ Curse of the Scorned ]                                │
+│  [ Bamm's Aping of the Monkeys ]                         │
+│                                                          │
+│  Title: Peacebringer                                     │
+│                                                          │
+│  [Traits]  [Skills]  [Passive Cloud]  [Inventory]        │
+│  [Quests]                                                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-HP: ▨▨▨▨▨▨▨▨▨▨
-
-MP: ▨▨▨▨▨▨▨▨▨▨
-
-Status Effects: [Peacebringer's Tranquil Mind], [Curse of the Scorned], [Bamm's Aping of the Monkeys]
-
-Title: Peacebringer
-
-[Traits] [Skills] [Passive Cloud] [Inventory] [Quests]
 
 Ted went through his status effects. [Bamm's Aping of the Monkeys] remained the same, but things had changed in [Curse of the Scorned], his fragmented soul essence had gained new hosts.
 
-[Curse of the Scorned]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Curse of the Scorned ]                                │
+│                                                          │
+│  You are despised, not for your actions, but for who     │
+│  you are. People in your presence eye you with immense   │
+│  contempt.                                               │
+│                                                          │
+│  Charisma significantly decreased.                       │
+│                                                          │
+│  Fragmented Soul Essence: 3%                             │
+│    (Plague Rat) 1%                                       │
+│    (Plague Ratkin) 2%                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-You are despised, not for your actions, but for who you are. People in your presence eye you with immense contempt.
-
-Charisma significantly decreased.
-
-Fragmented Soul Essence: 3%
-
-(Plague Rat) 1%
-
-(Plague Ratkin) 2%
 
 His soul essence had been divided between three Plague Rats, when he was eaten alive, but now 2% of his soul was instead held by a being called "Plague Ratkin". Do the rats eat each other as well? The name change must mean they are mutating and possibly gaining sentience. Ted remembered the advertising on the website for the game; it was advertising evolving enemies that, if not stopped, would grow stronger, terrorizing their vicinities, and eventually expand their territory. How am I supposed to overcome a horde, that is growing this rapidly..
 
@@ -108,11 +128,16 @@ At least the curse itself has not changed or gotten worse. Now that Ted was alon
 
 There was no end in sight for these speculations, so Ted turned towards learning what [Peacebringer's Tranquil Mind] did. A status effect he has had since he arrived in the world.
 
-[Peacebringer's Tranquil Mind]
-
-You are one of the Peacebringers sent to this world to bring peace and order.
-
-Emotions mostly suppressed.
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Peacebringer's Tranquil Mind ]                        │
+│                                                          │
+│  You are one of the Peacebringers sent to this world to  │
+│  bring peace and order.                                  │
+│                                                          │
+│  Emotions mostly suppressed.                             │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 Upon reading its description, Ted was overcome with a strong, stinging pain in his chest. A stream of emotions overwhelmed him. Sorrow, anger, and anguish shuffled around in his mind. He longed for the embrace of his family, but it was walled off. Feeling scared and unsafe, he sought to crawl back into his cozy, soft cotton bed left behind in his apartment, but the thought disappeared like a shooting star and Ted grew content with the hard trunk at his back and the wet wilds surrounding him. He felt at home.
 
