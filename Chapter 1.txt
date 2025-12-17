@@ -235,10 +235,9 @@ Others joined Ted in his corner, it was mostly Magic users, who, just like Ted, 
 │  HP:  ▨▨▨▨▨▨▨▨▨▨                                    │
 │  MP:  ▨▨▨▨▨▨▨▨▨▨                                    │
 │                                                          │
-│  Status Effects: none                                    │
-│  Title: Peacebringer                                     │
+│  Status Effects: [Peacebringer's Tranquil Mind]          │
 │                                                          │
-│  [Traits]  [Skills(1)]  [Passive Cloud]  [Inventory]     │
+│  [Traits]  [Skills(1)]   [Inventory]                     │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 
