@@ -1,56 +1,110 @@
-[Deeprooted Conflict]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Deeprooted Conflict ]                                 │
+│                                                          │
+│  A wizard, Petramus, has settled deep in the forest of   │
+│  the soaring monkey tribe. The constant expansion of     │
+│  his garden has been devouring the soaring monkeys'      │
+│  natural habitat and recent activity has provoked        │
+│  retaliation. Not long ago, Petramus animated a powerful │
+│  Golem to assist him in his unceasing greed. The garden's│
+│  accelerated development has forced the soaring monkeys  │
+│  to fight back, leading them to assault the Golem in an  │
+│  attempt to shut it down.                                │
+│                                                          │
+│  Peacebringer, end this conflict.                        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-A wizard, Petramus, has settled deep in the forest of the soaring monkey tribe. The constant expansion of his garden has been devouring the soaring monkeys' natural habitat and recent activity has provoked retaliation. Not long ago, Petramus animated a powerful golem to assist him in his unceasing greed. The garden's accelerated development has forced the soaring monkeys to fight back, leading them to assault the golem in an attempt to shut it down.
-
-Peacebringer, end this conflict.
 
 It humoured Ted that he was the very golem that triggered the quest, it was a quite unique quest system. Intriguing as it was, Ted bore no interest in completing the quest. He was more concerned with his own survival. After all, his soul would detach from the golem, if his mana fully depleted. Or he could face life worse than death at the hands of Petramus, if he can't complete the task he was assigned. The monkeys were currently the least of his troubles, but Ted feared they could still end up being disruptive.
 
 Ted opened the [Skills] tab and found [Reincarnation] was still a skill of his.
 
-[Reincarnation]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Reincarnation ]                                       │
+│                                                          │
+│  Activates once vessel receives a fatal blow.            │
+│                                                          │
+│  Soul is pulled out, preventing nirvana. A suitable      │
+│  empty vessel is chosen automatically based on           │
+│  availability. Calculations are made to avoid conflicts, │
+│  such as collisions or vessels being taken before        │
+│  arrival. There is still a risk of collision, losing a   │
+│  race, the vessel vanishing before arrival, or otherwise │
+│  not making it into a vessel. Soul Essence may be lost   │
+│  during the transfer. If Soul integrity is too           │
+│  compromised on arrival, the reincarnation may fail.     │
+│                                                          │
+│  Current Soul Integrity at 97%.                          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-Activates once vessel receives a fatal blow.
-
-Soul is pulled out, preventing nirvana. A suitable empty vessel is chosen automatically based on availability. Calculations are made to avoid conflicts, such as collisions or vessels being taken before arrival. There is still a risk of collision, losing a race, the vessel vanishing before arrival or otherwise not making it into a vessel. Soul Essence may be lost during the transfer. If Soul integrity is too compromised on arrival the reincarnation may fail.
-
-Current Soul Integrity at 97%.
 
 Reading the skill's description exposed it's many pitfalls. It was perversely risky to rely on. Losing Soul Essence was without a doubt bad, evident by the curse given from plague rats digesting it. The soul was seemingly a reservoir best kept intact. Being trapped inside a golem let Ted envision many horrifying scenarios worse than death. Magic users at war with monks would likely create an incinerator for reincarnated souls. Or keep souls trapped through persistently feeding an immobile vessel mana.
 
-Ted was also concerned about his current predicament, since running out of mana in his golem form might not be considered a fatal blow to the vessel; preventing the skill from activating. Coming to terms with [Reincarnation] not being flawless and acknowledging its shortcomings gave Ted flexibility.
+Ted was also concerned about his current predicament, since running out of mana in his golem form might not be considered a fatal blow to the vessel; preventing the skill from activating. Coming to terms with [Reincarnation] not being flawless and acknowledging its shortcomings made Ted flexible in regards to his skills.
 
-Since Ted was a Respecialist, he had the class-trait [Indecisive], allowing him to refund the skill point used for [Reincarnation] for free when pressing the [Respec] button. Being a golem, Ted had a strong physical defence, apparent from taking no damage when the soaring monkeys unleashed their relentless barrage, to say nothing of his encounter with Petramus' doorway. With that in mind, Ted felt safe to let go of [Reincarnation] to search for a Skill bearing more immediate merit.
+Since Ted was a Respecialist, he had the class-trait [Indecisive], allowing him to refund the skill point that was used up on [Reincarnation] for free when pressing the [Respec] button. Being a golem, Ted had a strong physical defence, apparent from taking no damage when the soaring monkeys unleashed their relentless barrage, to say nothing of his encounter with Petramus' doorway. With that in mind, Ted felt safe to let go of [Reincarnation] to search for a Skill bearing more immediate merit.
 
 With Ted's guard lowered, he began his search through the endless skill list, tapping and reading the description of any that caught his eye.
 
-[Soul Swap]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Soul Swap ]                                           │
+│                                                          │
+│  Shoots a beam out of the palm of your main-hand,        │
+│  tranquilizing the target's Soul Essence in preparation  │
+│  for a Soul Transfer. The user's Soul Essence will       │
+│  detach from their vessel and begin the transfer once    │
+│  the target has been confirmed to be sedated. The beam   │
+│  cannot detect if the target hit is a proper vessel,     │
+│  and in such case will result in the loss of the user's  │
+│  soul. If interrupted, can cause Soul Essence            │
+│  fragmentation.                                          │
+│                                                          │
+│  Exchanges Soul Essence with target.                     │
+│                                                          │
+│  1 MP cost per 10% Soul Essence transferred.             │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-Shoots a beam out of the palm of your main-hand, tranquilizing the target's Soul Essence in preparation of a Soul Transfer. The user's Soul Essence will detach from his vessel and begin the transfer once the target has been confirmed to be sedated. The beam cannot detect if the target hit is a proper vessel and in such case will result in the loss of the user's soul. If interrupted, can cause Soul Essence fragmentation.
-
-Exchanges Soul Essence with target.
-
-1 MP cost per 10% Soul Essence transferred.
 
 A high risk skill, which is not likely to be seen utilized in combat. If Ted could secure a new vessel, he could transfer his soul to it, freeing him from [Petramus' Puppetry] and he wouldn't require a [Mana Link] to recharge.
 
 Last he checked his Mana, Ted found it was running dangerously low. If a skill would let him conjure a vessel, he might not be able to afford the [Soul Swap] afterwards.
 
-[Pinocchio's Perfect Disguise]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Pinocchio's Perfect Disguise ]                        │
+│                                                          │
+│  Permanently frees the user's vessel from [ Puppetry ]   │
+│  and creates an illusion in its place, fooling any       │
+│  connected Puppeteer.                                    │
+│                                                          │
+│  Dispels [ Puppetry ] replacing it with an illusion.     │
+│  Illusion lasts 2 hours.                                 │
+│                                                          │
+│  5 MP cost                                               │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-Permanently frees the user's vessel from [Puppetry] and creates an illusion in it's place fooling any connected Puppeteer.
-
-Dispels [Puppetry] replacing it with an illusion.
-
-5 MP cost
 
 Ted's ceaseless scrolling had paid off, a highly situational skill applicable in only his specific circumstances had shown up. He wanted to use it promptly, but another skill in his view caught his attention. It's unusual name ignored any established naming convention.
 
-[Tanaxonomkastic Obsessivation]
-
-Activates once any vessel is within user's cone of vision.
-
-Vessels within user's sight have their names revealed and shown above them. While in a state of rest, more information can be discerned after tapping their name.
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Tanaxonomkastic Obsessivation ]                       │
+│                                                          │
+│  Activates once any vessel is within user's cone of      │
+│  vision.                                                 │
+│                                                          │
+│  Vessels within user's sight have their names revealed   │
+│  and shown above them. While in a state of rest, more    │
+│  information can be discerned after tapping their name.  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 It infuriated Ted to see an essential game mechanic carry such a repugnant name. Any attempt to discuss it would require mouthwash after.
 
@@ -84,27 +138,39 @@ The soaring monkeys carried on with their volleys of pinecones, they remained sa
 
 *Zap~~ Crunch* A huge cannonball sized projectile exploded out of the dense forest with enough force to topple Ted, throwing him to the ground and shattering his torso. Cobbles and pebbles exploded out from the impact. The status panel popped up revealing the damage.
 
-Level 1 Respecialist
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Level 1 Respecialist                                    │
+│                                                          │
+│  HP:  ▨▨▨▨▨▨▨▨▨▭                                    │
+│  MP:  ▨▭▭▭▭▭▭▭▭▭                                 │
+│                                                          │
+│  Status Effects:                                         │
+│  [ Peacebringer's Tranquil Mind ]                        │
+│  [ Curse of the Scorned ]                                │
+│  [ Pinocchio's Perfect Disguise (Petramus' Puppetry) ]   │
+│                                                          │
+│  Title: Peacebringer                                     │
+│                                                          │
+│  [Traits]  [Skills]  [Passive Cloud]  [Inventory]        │
+│  [Quests]                                                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-HP: ▨▨▨▨▨▨▨▨▨▨
-
-MP: ▨▨▨▨▨▨▨▨▨▨
-
-Status Effects: [Peacebringer's Tranquil Mind], [Curse of the Scorned], [Pinocchio's Perfect Disguise (Petramus' Puppetry)]
-
-Title: Peacebringer
-
-[Traits] [Skills] [Passive Cloud] [Inventory] [Quests]
 
 The rolled up ball leapt off Ted, uncovering a metallic core underneath the rocky chest and revealing itself to be one of the Soaring Monkey Tribe's warriors wielding a shiv. The other monkeys cheered him on, while they kept themselves safe, high in the crowns of the forest. The warrior was astonishingly muscular, his figure more of a gorilla, he did not have the skinflaps that allowed the rest to glide. A ragged loincloth hung around the warrior's pelvis, telling of a more civilized culture within the tribe.
 
 Ted felt nothing from the impact, but the perceived damage threw Ted into a panic. He sped through the menus, refunded [Pinocchio's Perfect Disguise] and were scrolling through the endless list of skills. When he was hit again. *Zap~~ Clang~*
 
-Level 1 Respecialist
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Level 1 Respecialist                                    │
+│                                                          │
+│  HP:  ▨▨▨▨▨▨▭▭▭▭                                   │
+│  MP:  ▨▨▭▭▭▭▭▭▭▭                                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-HP: ▨▨▨▨▨▨▨▨▨▨
-
-MP: ▨▨▨▨▨▨▨▨▨▨
 
 The metallic core took another blow, bending it's surface. The warrior was deliberately aiming for it, aware of it's importance.
 
@@ -140,19 +206,28 @@ The metallic core remained floating in the air, held by the deep purple beam, re
 
 Ted woke up, lying on a bed of leaves inside a hollowed out tree trunk, celebratory salutations ringing in his ears. The room was filled with an alleviating aroma from a freshly cooked meal. As he opened his eyes, he was met with dancing monkeys surrounding him and shouting in joy "Bamm! Bamm! Bamm! Bamm!". His status panel was up and he turned to read it.
 
-Level 1 Respecialist
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Level 1 Respecialist                                    │
+│                                                          │
+│  HP:  ▨▨▨▨▭▭▭▭▭▭                                  │
+│  MP:  ▨▨▨▨▨▨▭▭▭▭                                  │
+│                                                          │
+│  Status Effects:                                         │
+│  [ Peacebringer's Tranquil Mind ]                        │
+│  [ Curse of the Scorned ]                                │
+│  [ Bamm's Aping of the Monkeys ]                         │
+│  [ Bleeding ]                                            │
+│                                                          │
+│  Title: Peacebringer                                     │
+│                                                          │
+│  (2 new notifications)                                   │
+│                                                          │
+│  [Traits]  [Skills]  [Passive Cloud]  [Inventory]        │
+│  [Quests]                                                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-HP: ▨▨▨▨▨▨▨▨▨▨
-
-MP: ▨▨▨▨▨▨▨▨▨▨
-
-Status Effects: [Peacebringer's Tranquil Mind], [Curse of the Scorned], [Bamm's Aping of the Monkeys], [Bleeding]
-
-Title: Peacebringer
-
-(2 new notifications)
-
-[Traits] [Skills] [Passive Cloud] [Inventory] [Quests]
 
 While his mana had risen out of danger. Ted's health was dangerously low and he had obtained a [Bleeding] effect. "It worked.." exclaimed Ted, "but.. it isn't looking good.." Ted recalled his last moments, his memory was a conflicting jumble from two perspectives. It eventually settled on him, being stuck under a pile of rocks, while gasping for air.
 
