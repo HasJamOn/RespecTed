@@ -47,7 +47,7 @@ Wh-what was that? *clack* *clack* Ted put his job on hold *clank* and scouted th
 │  Level 1 Respecialist                                    │
 │                                                          │
 │  HP:  ▨▨▨▨▨▨▨▨▨▨                                    │
-│  MP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│  MP:  ▨▨▭▭▭▭▭▭▭▭                                 │
 │                                                          │
 │  Status Effects:                                         │
 │  [ Peacebringer's Tranquil Mind ]                        │
