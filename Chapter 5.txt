@@ -36,11 +36,17 @@ Shirley gently caressed Ted's cheek with her stub and reassured "With rest you w
 
 He saw a status effect fitting Shirley's description. "I have [Bamm's Aping of the Monkeys]" Ted exclaimed confused and tapped the effect, "how did I get this?" an information panel popped up.
 
-[Bamm's Aping of the Monkeys]
-
-Through Soul Entanglement you have gained the knowledge of someone else and learned the dialect of the Monkey kin.
-
-Bamm's Soul Essence: 3%
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Bamm's Aping of the Monkeys ]                         │
+│                                                          │
+│  Through Soul Entanglement you have gained the knowledge │
+│  of someone else and learned the dialect of the Monkey   │
+│  kin.                                                    │
+│                                                          │
+│  Bamm's Soul Essence: 3%                                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 After sharing the details of [Bamm's Aping of the Monkeys] with Shirley. Ted had one question filling his mind and asked. "Could this mean Bamm is still alive?"
 
@@ -114,7 +120,7 @@ As she stepped away she continued "I have assembled a party to accompany you, th
 
 A slim monkey rose from his seat and sleekly maneuvered through the seated audience to join Ted's side. He was already wearing the goggles, but were given the map ceremonially before joining Ted's side.
 
-"Gab and Gib. Rise. You shall bring your fighting prowess and may carry your signature weapon, the [Rope "A Vendible Horrid Knish"]. As well as a [Shield of Deflection] and a [Dagger of Immobilization]. Your responsibility shall lie with bringing back our valuable equipment, should the mission be compromised. Shirley waved Gab, then Gib, in "Gab, you may step forward. Gib, you may step forward as well."
+"Gab and Gib. Rise. You shall bring your fighting prowess and may carry your signature weapons, the [Rope "A Vendible Horrid Knish"]. As well as a [Shield of Deflection] and a [Dagger of Immobilization]. Your responsibility shall lie with bringing back our valuable equipment, should the mission be compromised." Shirley waved Gab, then Gib, in "Gab, you may step forward. Gib, you may step forward as well."
 
 Two members of the audience sitting next to each other rose up and began the walk. Ted recognized them. They were the pissed guards who had brought him there. Ted already had a hard time differentiating between any of the monkeys, but those two were like mirror images of each other. They were both covered in scars from their many battles. The scars were somehow perfectly reflected on them. When one had a scar on his right brow, the other had a similar scar on his left brow.
 
