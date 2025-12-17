@@ -87,7 +87,7 @@ You gain levels through completing quests, it seems. Ted was thrilled to gain mo
 │                                                          │
 │  Level 2 Respecialist                                    │
 │                                                          │
-│  HP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│  HP:  ▨▨▨▨▨▨▨▨▨▭                                    │
 │  MP:  ▨▨▨▨▨▨▨▨▨▨                                    │
 │                                                          │
 │  Status Effects:                                         │
