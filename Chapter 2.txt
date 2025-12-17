@@ -1,30 +1,32 @@
-Scanning for empty vessels in Thaer..
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Scanning for empty vessels in Thaer...                  │
+│                                                          │
+│  Found 352,468 candidates for Reincarnation.             │
+│                                                          │
+│  Checking Soul Aeronautical charts...                    │
+│                                                          │
+│  147,911 Soul transfers in progress...                   │
+│                                                          │
+│  Generating Heatmap...                                   │
+│  Predicting conflicts and possible collisions...         │
+│  Predetermining lost races...                            │
+│                                                          │
+│  Rolling... 34,543                                       │
+│                                                          │
+│  Empty vessel picked, initiating launch...               │
+│                                                          │
+│  Transferring Soul Essence.............................. │
+│                                                          │
+│  Soul transfer completed.                                │
+│                                                          │
+│  Checking soul integrity...                              │
+│  Soul integrity at 97%.                                  │
+│                                                          │
+│  Reincarnation Successful.                               │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-Found 352.468 candidates for Reincarnation.
-
-Checking Soul Aeronautical charts...
-
-147.911 Soul transfers in progress...
-
-Generating Heatmap...
-
-Predicting conflicts and possible collisions...
-
-Predetermining lost races...
-
-Rolling...34543
-
-Empty vessel picked, initiating launch...
-
-Transferring Soul Essence...................................
-
-Soul transfer completed.
-
-Checking soul integrity...
-
-Soul integrity at 97%.
-
-Reincarnation Successful.
 
 "Riiiise!" a voice shouted commandingly "Riiise my puppet and do my bidding!"
 
@@ -46,19 +48,25 @@ Petramus looked displeased with Ted's blaring greeting and sheathed his sceptre.
 
 A blue screen caught Ted's attention, it had been hovering to his left and may have been there the entire time. He turned away from Petramus and took a good look at the screen.
 
-Level 1 Respecialist
-
-HP: ▨▨▨▨▨▨▨▨▨▨
-
-MP: ▨▨▨▨▨▨▨▨▨▨
-
-Status Effects: [Peacebringer's Tranquil Mind], [Petramus' Puppetry]
-
-Title: Peacebringer
-
-(2 new notifications)
-
-[Traits] [Skills] [Passive Cloud] [Inventory] [Quests]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Level 1 Respecialist                                    │
+│                                                          │
+│  HP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│  MP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│                                                          │
+│  Status Effects:                                         │
+│  [ Peacebringer's Tranquil Mind ]                        │
+│  [ Petramus' Puppetry ]                                  │
+│                                                          │
+│  Title: Peacebringer                                     │
+│                                                          │
+│  (2 new notifications)                                   │
+│                                                          │
+│  [Traits]  [Skills]  [Passive Cloud]  [Inventory]        │
+│  [Quests]                                                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 A new status effect was influencing Ted, [Petramus' Puppetry]. I survived only to become someone's puppet Ted thought to himself. Despite him already having been turned into a Peacebringer against his own will. Ted paid no mind to the actuality, that his double isekai maneuver had ironically made him a two fold instrument of others.
 
@@ -67,24 +75,34 @@ A new status effect was influencing Ted, [Petramus' Puppetry]. I survived only t
 The sound of crackling rocks filled the room. Rocks were squeezed together as Ted slowly lifted his arm to point at [Petramus' Puppetry].
 
 Another panel appeared.
-
-[Petramus' Puppetry]
-
-Puppet: Limestone Golem
-
-Puppeteer: Petramus
-
-Mana reserves: 34%>> (Charging)
-
-Mana source: Petramus [Mana Link]
-
-The use of a smithsonite crystal infused with magic has brought a Golem, made of various sedimentary rocks, to life, by wrenching Soul Essence into place through a Soul Transfer ritual.
-
-The Puppeteer, Petramus, can expend Mana to issue commands to control this Golem. Mana has been locked into the stone and can be seen as saturations layering the surfaces operating as veins.
-
-The Golem has been set to Hibernate once Mana reserves reach below 20%.
-
-Soul will be lost once mana is fully depleted, leaving an Empty Vessel, and a new Soul Transfer is necessary to revive the Golem.
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Petramus' Puppetry ]                                  │
+│                                                          │
+│  Puppet: Limestone Golem                                 │
+│  Puppeteer: Petramus                                     │
+│                                                          │
+│  Mana reserves: 34% >> (Charging)                        │
+│  Mana source: Petramus [Mana Link]                       │
+│                                                          │
+│  The use of a smithsonite crystal infused with magic     │
+│  has brought a Golem, made of various sedimentary rocks, │
+│  to life by wrenching Soul Essence into place through a  │
+│  Soul Transfer ritual.                                   │
+│                                                          │
+│  The Puppeteer, Petramus, can expend Mana to issue       │
+│  commands to control this Golem. Mana has been locked    │
+│  into the stone and can be seen as saturations layering  │
+│  the surfaces, operating as veins.                       │
+│                                                          │
+│  The Golem has been set to Hibernate once Mana reserves  │
+│  reach below 20%.                                        │
+│                                                          │
+│  Soul will be lost once Mana is fully depleted, leaving  │
+│  an Empty Vessel, and a new Soul Transfer is necessary   │
+│  to revive the Golem.                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 I'm being charged like a battery and if I run low I will fall into hibernation and eventually die! Ted resented the fact that his survival depended on his [Mana Link] with Petramus. Because of his family's generosity, Ted had managed to stay unemployed and had never held a job.
 
@@ -96,15 +114,21 @@ With a confident swing he pointed the sceptre towards Ted and a blast, like ligh
 
 In confusion and as to figure out this unsettling event, Ted looked at his HP bar, but found it to be unchanged. A panel swiftly popped up in his sight.
 
-Log
-
-[Petramus' Puppetry] Golem Hibernation setting adjusted to activate once Mana reserves reach below 0%
-
-[Mana Link] with Petramus has been broken.
-
-Mana reserves no longer charging.
-
-Mana depleting: <<35%
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Log                                                     │
+│                                                          │
+│  [ Petramus' Puppetry ]                                  │
+│  Golem Hibernation setting adjusted to activate once     │
+│  Mana reserves reach below 0%                            │
+│                                                          │
+│  [ Mana Link ] with Petramus has been broken.            │
+│                                                          │
+│  Mana reserves no longer charging.                       │
+│                                                          │
+│  Mana depleting: <<35%                                   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 Even with no work experience, Ted knew what this was and his rocky veins turned pale. Petramus had effectively started a clock and given Ted a Deadline, with emphasis on Dead.
 
