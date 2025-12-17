@@ -3,11 +3,13 @@ Chapter 1 - Adepartment
 
 Inside a dark damp room. A man, sheltered by his mess lived here, with so little care, every corner was caked in grime, as if to isolate him from the outside world. This man was Theodore and by the disorder of his life, he had found stability through a static living with no growth and no end.
 
-The floor was nowhere in sight, covered with filth. Trashbags, sodacans, and tons of sticky, crusty tissue paper littered the space, keeping them in a crunched up ball shape. At times referred to as "Ted’s Trash Flat" by his neightbours when they in passing discussed reporting him for hazardous behaviour. Ted was a middle-aged gamer who lived off the lavish allowance his family apathetically sent, a steady pulse holding his world together. His days traced a dull, relentless orbit around the glowing screens. The orchestra of DragonDive Online's digital spirit —smashing, growling, and explosive noise—blasted from the speakers, followed by a victory symphony repeated throughout the day.
+The floor was nowhere in sight, covered with filth. Trashbags, sodacans, and tons of sticky, crusty tissue paper littered the space, keeping them in a crunched up ball shape. At times referred to as "Ted’s Trash Flat" by his neightbours when they in passing discussed reporting him for hazardous behaviour.
+
+Ted was a middle-aged gamer who lived off the lavish allowance his family apathetically sent, a steady pulse holding his world together. His days traced a dull, relentless orbit around the glowing screens. The orchestra of DragonDive Online's digital spirit —smashing, growling, and explosive noise—blasted from the speakers, followed by a victory symphony repeated throughout the day.
 
 Ted tore a bag of cheesy corn chips open, the crinkling foil walls parting into a greasy cavern of delight. He drew each finger past his lips, scraping up traces of cheese powder and smearing the rest on his jeans. His fingers, still tacky with powdered cheese, danced across the keyboard and mouse, marking each action with a greasy smear. His eyes, fixed on the glowing chaos, were the anchor in his messy, stagnant world.
-Ted, unaware of it being the last day in his apartment, was fighting a giant lizard, as part of the main quest line in a new game he was trying: DragonDive Online.
 
+Ted, unaware of it being the last day in his apartment, was fighting a giant lizard, as part of the main quest line in a new game he was trying: DragonDive Online.
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
 │  ( Lizard King — Level 16 )                              │
@@ -20,6 +22,7 @@ Ted, unaware of it being the last day in his apartment, was fighting a giant liz
 └──────────────────────────────────────────────────────────┘
 
 DragonDive Online was a generic MMORPG, he had reached level 23, as a mage, and was considering dropping it. This was par for the course for him. Ted would find new video-games on a bi-weekly basis and had never completed, or reached end-game in; any of them.
+
 Ted unleashed a final fire barrage bringing the Lizard King down. A blast of sound effects exploded from his speakers, it was a horrible mix of music and sound effects trying to overpower each other. He had gained a level from defeating the boss and the victory medley was fighting with the level up medley creating a horrible mix of noise.
 
 ┌──────────────────────────────────────────────────────────┐
@@ -42,12 +45,18 @@ Ted unleashed a final fire barrage bringing the Lizard King down. A blast of sou
 │  Damage dealt to Lizard kin increased by 5%              │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
-
 Ted cringed and spoke his final thoughts on the game out loud, as if he was trying to convince himself to move on:
+
 "This boss was also just waaay too easy.. too choreographed and too many safe areas.. Actually, it does so little damage that I could probably have tanked it."
+
 He looted the Lizard King only to find a Rare Weapon for the Ranger class, as a Mage, it was useless to him, so he left it alone.
+
 "That's it, I am out! Why can't this game at least give me drops that I can actually use!" Ted's frustrations with the game didn't hold much water. He was overleveled and complained about the difficulty and yet he wanted better loot to improve his power future.
-Alt+F4. Uninstall. Web-browser opened, surfing the internet for his next gaming experience. Ted preferred the MMORPG genre, perhaps in search of belonging, even though he only interacted with other players when the gameplay required him to do so.
+
+Alt+F4. Uninstall. Web-browser opened, surfing the internet for his next gaming experience.
+
+Ted preferred the MMORPG genre, perhaps in search of belonging, even though he only interacted with other players when the gameplay required him to do so.
+
 Ted stumbled on a webpage with a game that promises quite the elusive experience.
 
 ┌──────────────────────────────────────────────────────────┐
@@ -113,28 +122,52 @@ Ted stumbled on a webpage with a game that promises quite the elusive experience
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 
-Another promising world: Macrocosm Mo-Online. Glowing text, endless lists, overblown hype: classes beyond imagination, persistent worlds, machine-learning chaos. Peacebringer. Knight. Magician. Ranger. Ted scrolled. Endless scrolling. Barbarian. Assassin. Diplomat. Candlemaker. Lobotomist. The names piled, portraits loaded and generated faster than he could process.
+Another promising world: MAYHEM OF THE MACROCOSM.
 
 "What a scam... the procedural generation is probably just recolours of mobs with random selections of heads..."
+
 The advertising was very familiar to him, he had once spent his money on buying land and vehicles in a game, that supposedly would be like The Matrix, it was based on NFTs and cryptocurrency only for the game to never be made into more than tiles and images on a webpage. He still technically owned the NFTs and cryptocurrency associated with it, but, after development had stopped, its value was practically zero.
+
 "It mentions three of the most generic classes of any fantasy setting and then says it has classes beyond my imagination, what a joke! I am pretty sure it doesn't have... a... Nailbender class!"
+
 His voice was followed by stale silence only filled with the ringing fans from his computer in his otherwise lifeless apartment. Ted took a gulp from his latest can of soda and stared blankly at the screen.
+
 "It is free to play... and it does say I can start playing right away." Ted gave it a shot and wrote down his email and password. He clicked [ENTER] ready to play.
-*ERROR - you have to select a class.*
+
+ERROR - you have to select a class.
+
 "Ahh oops, I overlooked that." Ted clicked [select your class] and a new window opened with three columns of classes portrayed with beautiful images.
+
 "Knight, Ranger, Mage... what a joke, they only have those generic classes to select from! They couldn't even bother keeping the illusion up until I finished registering."
+
 Ted notched his finger on the mouse wheel, scrolling down, while cementing his thoughts, but was met with a shocking discovery, there were more rows of classes below.
+
 "Barbarian, Assassin, Druid" he kept scrolling and more rows of classes kept popping up.
+
 "Paladin, Warrior, Diplomat, Missionary, Waxman, Reaper, Priest, Ninja, Samurai, Gunslinger, Farmer, Necromancer, Carpenter, Wrestler, Wrangler, Bard, Vampire, Charmer, Lobotomist, Politician, Candlemaker, Noble..." Wrinkles grew on Ted's forehead "This is ridiculous! Ignoring the amount of work that has to go into creating all this classes. Why are some of them so specific and who would ever pick to be a farmer or carpenter! Also, if there are Diplomat and Politician classes, does that mean anyone else can't participate in governing? Wouldn't a Waxman always be inferior to a candlemaker.. is that even the question I should ask at this point!?"
+
 The chair creaked as Ted took a step back from the intense revelation he encountered. He opened a bag of chips and began munching on them, deep in thought.
+
 "Surely these classes aren't actually in the game.. yet it's impressive they have portraits for each of them in the same art style.. what should I even choose."
-He scrolled some more while he tried to settle on a class, a part of him was delaying making a choice and had planned to finalize his decision once he hit the bottom of the page. More and more classes flew up through the screen and Ted grew impatient, he changed tactics and switched to middle-click and moving the mouse down to speedily go through all the classes. The website began buffering, it couldn't keep up, yet it kept loading more classes with no end in sight, as if they were generated on the spot.
+
+He scrolled some more while he tried to settle on a class, a part of him was delaying making a choice and had planned to finalize his decision once he hit the bottom of the page. More and more classes flew up through the screen and Ted grew impatient, he changed tactics and switched to middle-click and moving the mouse down to speedily go through all the classes.
+
+The website began buffering, it couldn't keep up, yet it kept loading more classes with no end in sight, as if they were generated on the spot.
+
 "Whatever..." Ted let go with a loose breath "why am I even investing so much into choosing a class, it's all fake anyways. Why do I even have to choose one while signing up on the website?"
+
 MMORPG's usually let players choose a class when creating a character rather than when creating their account. He had not even downloaded or installed Mayhem of the Macrocosm. It would also mean he would have to create another email to try out another class.
-"For a game that promises endless possibilities and choices, it stupidly locks players into a single class... How are we supposed to figure out what is most fitting for us!" Ted stopped scrolling and did a spin around in his chair. He usually did so when playing and was frustrated over dying to a mob. He glanced at the screen as he spun and something peculiar caught his eye.
+
+"For a game that promises endless possibilities and choices, it stupidly locks players into a single class... How are we supposed to figure out what is most fitting for us!"
+
+Ted stopped scrolling and did a spin around in his chair. He usually did so when playing and was frustrated over dying to a mob. He glanced at the screen as he spun and something peculiar caught his eye.
+
 Three classes were on the screen, the first two were still loading their portraits, they were called Verminator and Captain. The last one was called Respecializationist and its portrait was a simple button saying [Respec].
+
 "Oh fudge, did they finally run out of portraits... haha" Ted scrolled down a little, more classes were down below; Surgeon, Cultist, Illusionist. He scrolled back up and the Verminator and Captain classes' portraits had loaded.
+
 "Oh I guess not.. How did they end up so cheap on this one? It looks just like a typical button to reset your skill allocations, while all the other ones have detailed portraits. Maybe an error?" Ted chuckled to himself "I'll choose this one, if there is an actual game I want to see this. It should be able to entertain me for a while."
+
 Ted selected Respecializationist and was thrown back to the previous screen.
 
 ┌──────────────────────────────────────────────────────────┐
@@ -193,40 +226,88 @@ The chair screeched a tiny bit before the apartment fell silent. The fans stoppe
 └──────────────────────────────────────────────────────────┘
 
 Noise of ramblings, conversations on top of conversation, only achieved in densely crowded places like casinos or malls were bringing Ted out of sleep.
-"Guys! Guys! Wake up! We have been freaking isekaied! This has to be it! It feels too real to be a dream, hit me!" *Smack* "Ouch... yep, still here."
+
+"Guys! Guys! Wake up! We have been freaking isekaied! This has to be it! It feels too real to be a dream, hit me!" Smack "Ouch... yep, still here."
+
 More and more people woke up, confused, yet it quickly turned into a childish excitement.
-"isekai! isekai! isekai!" With the cheerful shouting, Ted was brought out from his slumber, irritated, he was as surprised as everyone else to find himself in a new world, but he wasn't thrilled with the idea of socializing. When Ted opened his eyes, he saw a group of grown men before him. All wearing various fantastical armour and gear fitting their classes. Not only had everyone's clothes changed, their physique had changed to fit their role. Knights, Warriors, Barbarians had all gained incredible muscle mass, while Rangers, Scouts, Assassins etc. looked athletic. People who had chosen magic focused classes were wimpy, but with a gentle and clean looking skin, as if they had never been roughed up.
+
+"isekai! isekai! isekai!"
+
+With the cheerful shouting, Ted was brought out from his slumber, irritated, he was as surprised as everyone else to find himself in a new world, but he wasn't thrilled with the idea of socializing.
+
+When Ted opened his eyes, he saw a group of grown men before him. All wearing various fantastical armour and gear fitting their classes. Not only had everyone's clothes changed, their physique had changed to fit their role. Knights, Warriors, Barbarians had all gained incredible muscle mass, while Rangers, Scouts, Assassins etc. looked athletic. People who had chosen magic focused classes were wimpy, but with a gentle and clean looking skin, as if they had never been roughed up.
+
 Ted took a good look at himself, he was still wearing his yoga pants and plain white t-shirt he had worn in his apartment, he had not taken a shower for days and his clothes were filled with grease and spills from his snacks and soda. Ted stood up and brushed himself off.
+
 "Hey guys! How did you all change? Is there, like, a voice command or something?" Ted shouted to the group.
+
 Some from the group turned to him and looked confused about the question, the confusion turned to shock upon seeing Ted.
+
 "What are you wearing?! Haha! We woke up like this, did the isekai transfer bug with you.. that is so unlucky!" The guys chuckled with little concern. "Wait, what is your class?"
+
 "Ehh.." said Ted, he wasn't certain "How do I find out?"
+
 "Oh yeah, we have to find out, if this is like the isekais where there are floating panels" exclaimed a Knight amongst them gleefully and began shouting various commands in an attempt at opening up a digital panel "Menu! Status! Inventory! Character! Class! Skills!" but nothing appeared.
+
 "It could be that it isn't voice activated, maybe a gesture?" suggested a Wizard. The group began swinging their arms while continuously shouting commands.
+
 Ted, despite not being much for social events, joined in and swung his arms while shouting his guesses "Start! Help! Guide! Controls! Quit!?"
-Not a single prompt popped up and just as everyone felt they had exhausted themselves for naught. A female Ranger sat down to take a break and moments later shouted.
-"I got it! My character screen opened!" people gathered around her and she continued "I am a level 1 Ranger! There are a few buttons on here as well.. Traits, Skills, Passive Map.." 
+
+Not a single prompt popped up and just as everyone felt they had exhausted themselves for naught.
+
+A female Ranger sat down to take a break and moments later shouted.
+
+"I got it! My character screen opened!"
+
+People gathered around her and she continued "I am a level 1 Ranger! There are a few buttons on here as well.. Traits, Skills, Passive Map.."
+
 No one else could see her screen and someone in the crowd shouted, half jokingly, half doubtfully "Maybe she turned schizo!" it caused laughter to erupt and others joined in.
+
 "She is obviously a Ranger with the leather clothes and the freaking bow on her back! Haha".
+
 "Hey, I see it too! I am a level 1 Knight!" shouted a man in shining armour mockingly, while unsheathing his sword and brandishing his shield.
+
 The female Ranger didn't take their attitudes too well and shouted before running away "Jerks!" She turned a corner and ran out of sight of everyone.
+
 A wimpy Magician snickered, his voice thin and sharp. "This is the moment where she will encounter a pack of mobs and get slaughtered."
+
 As prophesied, a scream—sharp, high-pitched, and quickly dissolving into a gurgle—shook the smiles off everyone's faces. It was followed by a wet, frantic sound, like linen being ripped from a body.
+
 "Shit! What happens if we die?" A hoarse voice broke the silence. It was the self-proclaimed Knight, his shining armor now seeming less majestic and more like a heavy, ill-fitting joke. "Isn't this isekai stuff usually permadeath?"
-A wave of dread replaced the earlier excitement. "Why were we so jolly about this!?" another man yelled, brandishing a small dagger. "This isn't an MMORPG! If this is typical isekai shit, then the mobs could be ridiculously overpowered for level 1!"
+
+A wave of dread replaced the earlier excitement.
+
+"Why were we so jolly about this!?" another man yelled, brandishing a small dagger. "This isn't an MMORPG! If this is typical isekai shit, then the mobs could be ridiculously overpowered for level 1!"
+
 The loudest of the group, driven by panic or misplaced heroism, surged forward toward the corner the Ranger had rounded.
+
 They stopped dead.
+
 The sight was absolute. The Ranger was already on the ground, not fighting, but dissolving. A pack of rats, grotesquely swollen and covered in infected lumps, were a tide of brown fur and frenzied motion. They had already shredded the leather clothes and were tearing through her flesh. A sickening crunch echoed as one rat gnawed through the small bones of her forearm. The stone floor was rapidly darkening with blood, and the Ranger’s face, pale with shock, was rapidly being obscured by the furry horde that climbed over her chest and neck, chewing and pulling.
+
 From the pile of frantic bodies, one of the rats, engorged and glistening, lifted its head.
+
 "Wait, wait!" It was Ted, who had been lacking behind the group, he had no weapons "Anyone got a spare? I am unarmed!"
+
 "Save yourselves!" Shouted a Knight, as the rats set their sight on their newly arrived meal.
+
 "Maybe you are a Brawler" suggested a Ranger jokingly to Ted, unfaced with the circumstances.
-~squeak~ ~squeeeak~ ~squeeeaak~ The rats charged towards them flooding in like a dam had broken.
+
+~squeak~ ~squeeeak~ ~squeeeaak~
+
+The rats charged towards them flooding in like a dam had broken.
+
 "Melee front! Archers back! Magicians... figure out how to throw your damn spells!" Commanded a Knight, who had his act together.
+
 A few Melee classes responded to his call, but most turned a deaf ear to his call, to save their own skin.
+
 Ted pushed through to the back of the cave and cowered in fear.
+
 Rats sprawled around them and flanked the unprepared group. It was too late for tactics, the rats controlled the fight.
-Others joined Ted in his corner, it was mostly Magic users, who, just like Ted, was left with no way to fight. As they ran up on him, Ted raised his head, but his eyes were met, not with the others, but with.
+
+Others joined Ted in his corner, it was mostly Magic users, who, just like Ted, was left with no way to fight.
+
+As they ran up on him, Ted raised his head, but his eyes were met, not with the others, but with...
 
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
@@ -245,15 +326,34 @@ Others joined Ted in his corner, it was mostly Magic users, who, just like Ted, 
 └──────────────────────────────────────────────────────────┘
 
 The screen! Ted had made it appear. He pondered shortly before announcing his theory to everybody.
-"Everybody sit down! You can only activate the character screen while sitting!" People closest to Ted sat down and began a ripple effect amongst the scared crowd of unarmed men, many not hearing Ted followed the flock reaching for any hope to survive.
+
+"Everybody sit down! You can only activate the character screen while sitting!"
+
+People closest to Ted sat down and began a ripple effect amongst the scared crowd of unarmed men, many not hearing Ted followed the flock reaching for any hope to survive.
+
 The frontline was quickly losing foothold, as the best armoured classes had fallen, leaving the weaker classes like Assassins, Rogues, Thieves and the like to absorb the blows.
-Rats had also flanked the ranged classes from the sides and were reaching the outermost of the helpless magic classes. Ted noticed a man next to him was carrying a weapon.
+
+Rats had also flanked the ranged classes from the sides and were reaching the outermost of the helpless magic classes.
+
+Ted noticed a man next to him was carrying a weapon.
+
 "Hey! You are armed, go fight!" Shouted Ted forcefully, his voice was filled with contempt.
+
 "It's Ho-mi! A Korean hand plough! I am of the Farmer Class!" The man shouted back with a shaken voice.
-Ted couldn't believe his ears, of all the classes presented to that man, he chose the Farmer class. Ridiculous as it was, Ted had managed to choose a class with even less survivability. He had no weapons and was in his old, gross clothes from back in his apartment still.
+
+Ted couldn't believe his ears, of all the classes presented to that man, he chose the Farmer class.
+
+Ridiculous as it was, Ted had managed to choose a class with even less survivability. He had no weapons and was in his old, gross clothes from back in his apartment still.
+
 "If you are not going to fight, then give me the Ho-mi!" persuaded Ted.
+
 "No way!" the Farmer shouted back, he wasn't convinced to let go of his last defense.
-Ted turned back to the screen and pointed to [Skills] in desperation. It opened an empty screen, he had no skills. At the bottom was one sentence:
+
+Ted turned back to the screen and pointed to [Skills] in desperation.
+
+It opened an empty screen, he had no skills.
+
+At the bottom was one sentence:
 
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
@@ -282,15 +382,36 @@ He once again pointed and another panel opened, this time full of Skills, there 
 │  [ Scroll for more ]                                     │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
-*Crackle-crackle*
+Crackle-crackle
+
 The cave lit up in a warm burning light, revealing rats on every wall, with even some hanging on to the ceiling. A magic user had conjured a fireball in his hands.
-*Crackle-crackle* *Boooosh!*
+
+Crackle-crackle Boooosh!
+
 Magic users were fighting back the endless waves of plagued rats, they had figured out how to assign skills and discovered how to use them.
-Eventually only one man was still sitting, everyone else was either standing and fighting or dead on the ground. The man was swiping his hand repeatedly, it was Ted, scrolling through his endless list of possible Skills. 
+
+Eventually only one man was still sitting, everyone else was either standing and fighting or dead on the ground. The man was swiping his hand repeatedly, it was Ted, scrolling through his endless list of possible Skills.
+
 "Why are there so many choices!? They are not even in alphabetic order! This is the darn class screen all over again!" Ted shouted to himself in desperation, as people fell near him.
-"Summon Turtle, Water Spike, Divine Shield, Harvest Soil, Demonic Presence, Cateyes, Flarekick.. no, no no no! Let me summon a dragon or emerge a volcano! I need something stronger!" Ted barely had a clue what any of the Skills do and could only guess based on their naming conventions.
-The cave where a group of newly arrived Peacebringers had shared in laughter was now a bloodbath with corpses of both men and rats littering the floor worse than Ted's apartment. The horde of rats had thinned down, only a couple dozen were left, but the remaining Peacebringers could be counted on one hand. They were all magic classes and they were running out of mana, some resorted to throwing fists in desperation. It was a hopeless struggle, their weak physique meant that the rats barely cared when they landed a direct punch. They were overwhelmed, rats chewed onto their arms and ripped them apart with ease.
-By now, Ted was getting bitten as well, he continuously scrolled down the list in defiance. Desperate to find a Skill, that may save him from imminent death. With one last struggle, before he succumbed to his wounds he picked a Skill.
+
+"Summon Turtle, Water Spike, Divine Shield, Harvest Soil, Demonic Presence, Cateyes, Flarekick.. no, no no no! Let me summon a dragon or emerge a volcano! I need something stronger!"
+
+Ted barely had a clue what any of the Skills do and could only guess based on their naming conventions.
+
+The cave where a group of newly arrived Peacebringers had shared in laughter was now a bloodbath with corpses of both men and rats littering the floor worse than Ted's apartment.
+
+The horde of rats had thinned down, only a couple dozen were left, but the remaining Peacebringers could be counted on one hand.
+
+They were all magic classes and they were running out of mana, some resorted to throwing fists in desperation. It was a hopeless struggle, their weak physique meant that the rats barely cared when they landed a direct punch.
+
+They were overwhelmed, rats chewed onto their arms and ripped them apart with ease.
+
+By now, Ted was getting bitten as well, he continuously scrolled down the list in defiance.
+
+Desperate to find a Skill, that may save him from imminent death.
+
+With one last struggle, before he succumbed to his wounds he picked a Skill.
+
 "This is it.. no amount of scrolling could possibly find a better gamble than this."
 
 ┌──────────────────────────────────────────────────────────┐
