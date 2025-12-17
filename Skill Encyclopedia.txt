@@ -1,0 +1,120 @@
+-Skill Encyclopedia-
+[Summon Turtle]
+First appearance: Chapter 1
+
+[Water Spike]
+First appearance: Chapter 1
+
+[Divine Shield]
+First appearance: Chapter 1
+
+[Harvest Soil]
+First appearance: Chapter 1
+
+[Demonic Presence]
+First appearance: Chapter 1
+
+[Cateyes]
+First appearance: Chapter 1
+
+[Flarekick]
+First appearance: Chapter 1
+
+[Reincarnation]
+First appearance: Chapter 1
+when Ted uses it to cheat death to the rats fierce attacks in the cave.
+
+Later in Chapter 4 we get the skill page:
+┌──────────────────────────────────────────┐
+│                                                          │
+│  [ Reincarnation ]                                       │
+│                                                          │
+│  Activates once vessel receives a fatal blow.            │
+│                                                          │
+│  Soul is pulled out, preventing nirvana. A suitable      │
+│  empty vessel is chosen automatically based on           │
+│  availability. Calculations are made to avoid conflicts, │
+│  such as collisions or vessels being taken before        │
+│  arrival. There is still a risk of collision, losing a   │
+│  race, the vessel vanishing before arrival, or otherwise │
+│  not making it into a vessel. Soul Essence may be lost   │
+│  during the transfer. If Soul integrity is too           │
+│  compromised on arrival, the reincarnation may fail.     │
+│                                                          │
+│  Current Soul Integrity at 97%.                          │
+│                                                          │
+└──────────────────────────────────────────┘
+
+[Soul Swap]
+First appearance: Chapter 4
+┌──────────────────────────────────────────┐
+│                                                          │
+│  [ Soul Swap ]                                           │
+│                                                          │
+│  Shoots a beam out of the palm of your main-hand,        │
+│  tranquilizing the target's Soul Essence in preparation  │
+│  for a Soul Transfer. The user's Soul Essence will       │
+│  detach from their vessel and begin the transfer once    │
+│  the target has been confirmed to be sedated. The beam   │
+│  cannot detect if the target hit is a proper vessel,     │
+│  and in such case will result in the loss of the user's  │
+│  soul. If interrupted, can cause Soul Essence            │
+│  fragmentation.                                          │
+│                                                          │
+│  Exchanges Soul Essence with target.                     │
+│                                                          │
+│  1 MP cost per 10% Soul Essence transferred.             │
+│                                                          │
+└──────────────────────────────────────────┘
+
+[Pinocchio's Perfect Disguise]
+First appearance: Chapter 4
+┌──────────────────────────────────────────┐
+│                                                          │
+│  [ Pinocchio's Perfect Disguise ]                        │
+│                                                          │
+│  Permanently frees the user's vessel from [ Puppetry ]   │
+│  and creates an illusion in its place, fooling any       │
+│  connected Puppeteer.                                    │
+│                                                          │
+│  Dispels [ Puppetry ] replacing it with an illusion.     │
+│  Illusion lasts 2 hours.                                 │
+│                                                          │
+│  5 MP cost                                               │
+│                                                          │
+└──────────────────────────────────────────┘
+
+[Tanaxonomkastic Obsessivation]
+First appearance: Chapter 4
+┌──────────────────────────────────────────┐
+│                                                          │
+│  [ Tanaxonomkastic Obsessivation ]                       │
+│                                                          │
+│  Activates once any vessel is within user's cone of      │
+│  vision.                                                 │
+│                                                          │
+│  Vessels within user's sight have their names revealed   │
+│  and shown above them. While in a state of rest, more    │
+│  information can be discerned after tapping their name.  │
+│                                                          │
+└──────────────────────────────────────────┘
+
+--From Items--
+
+[Pneumatic Leap]
+The strength of the Puma is channeled and explodes from your legs, giving you an incredible leaping power.
+
+Moderate Windup Delay
+0 MP cost
+
+[Projection]
+Analyze and project your surroundings accurately and compile it. Store it in an object.
+[Orienteering]
+Read the [Projection] stored in an object.
+
+[Regrowth]
+Regrow organic vessels by pouring your mana. Regrowth of large amounts of materials, like limbs, may take days of constant application of mana.
+
+[Quantum Leap]
+Teleport between two points.
+

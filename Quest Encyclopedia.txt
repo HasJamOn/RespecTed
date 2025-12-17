@@ -1,0 +1,55 @@
+-Quest Encyclopedia-
+
+[Deeprooted Conflict]
+First appearance: Chapter 3-4
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Deeprooted Conflict ]                                 │
+│                                                          │
+│  A wizard, Petramus, has settled deep in the forest of   │
+│  the soaring monkey tribe. The constant expansion of     │
+│  his garden has been devouring the soaring monkeys'      │
+│  natural habitat and recent activity has provoked        │
+│  retaliation. Not long ago, Petramus animated a powerful │
+│  Golem to assist him in his unceasing greed. The garden's│
+│  accelerated development has forced the soaring monkeys  │
+│  to fight back, leading them to assault the Golem in an  │
+│  attempt to shut it down.                                │
+│                                                          │
+│  Peacebringer, end this conflict.                        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+Completion: Chapter 6
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Deeprooted Conflict ] Completed                       │
+│                                                          │
+│  Petramus has stopped expanding his garden to rebuild    │
+│  his tower and is therefore no longer threatening the    │
+│  livelihood of the Soaring Monkeys.                      │
+│                                                          │
+│  The Soaring Monkeys have ceased their attack on the     │
+│  garden.                                                 │
+│                                                          │
+│  You have brought peace.                                 │
+│                                                          │
+│  Accessing environmental damage...                       │
+│  Scanning area for casualties...                         │
+│  Weighing resources..                                    │
+│  Determining stability...                                │
+│  Estimating future conflict...                           │
+│  Establishing Peacebringer's influence...                │
+│  Calculating success rating...                           │
+│                                                          │
+│  Success Rating -E- given.                               │
+│                                                          │
+│  Accumulating Experience...                              │
+│                                                          │
+│  Ted has reached Level 2 Respecialist!                   │
+│                                                          │
+│  Soul Essence Density has increased.                     │
+│                                                          │
+│  + 1 Skill Point                                         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+

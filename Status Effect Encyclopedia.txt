@@ -1,0 +1,82 @@
+-Status Effect Encyclopedia-
+
+[Peacebringer's Tranquil Mind]
+First appearance: Chapter 1
+Later in Chapter 5 we get the skill page:
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Peacebringer's Tranquil Mind ]                        │
+│                                                          │
+│  You are one of the Peacebringers sent to this world to  │
+│  bring peace and order.                                  │
+│                                                          │
+│  Emotions mostly suppressed.                             │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+[Petramus' Puppetry]
+First appearance: Chapter 2
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Petramus' Puppetry ]                                  │
+│                                                          │
+│  Puppet: Limestone Golem                                 │
+│  Puppeteer: Petramus                                     │
+│                                                          │
+│  Mana reserves: 34% >> (Charging)                        │
+│  Mana source: Petramus [Mana Link]                       │
+│                                                          │
+│  The use of a smithsonite crystal infused with magic     │
+│  has brought a Golem, made of various sedimentary rocks, │
+│  to life by wrenching Soul Essence into place through a  │
+│  Soul Transfer ritual.                                   │
+│                                                          │
+│  The Puppeteer, Petramus, can expend Mana to issue       │
+│  commands to control this Golem. Mana has been locked    │
+│  into the stone and can be seen as saturations layering  │
+│  the surfaces, operating as veins.                       │
+│                                                          │
+│  The Golem has been set to Hibernate once Mana reserves  │
+│  reach below 20%.                                        │
+│                                                          │
+│  Soul will be lost once Mana is fully depleted, leaving  │
+│  an Empty Vessel, and a new Soul Transfer is necessary   │
+│  to revive the Golem.                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+[Curse of the Scorned] 
+First appearance: Chapter 4
+Later in Chapter 5 we get the skill page:
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Curse of the Scorned ]                                │
+│                                                          │
+│  You are despised, not for your actions, but for who     │
+│  you are. People in your presence eye you with immense   │
+│  contempt.                                               │
+│                                                          │
+│  Charisma significantly decreased.                       │
+│                                                          │
+│  Fragmented Soul Essence: 3%                             │
+│    (Plague Rat) 1%                                       │
+│    (Plague Ratkin) 2%                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+[Bamm's Aping of the Monkeys]
+First appearance: Chapter 5
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Bamm's Aping of the Monkeys ]                         │
+│                                                          │
+│  Through Soul Entanglement you have gained the knowledge │
+│  of someone else and learned the dialect of the Monkey   │
+│  kin.                                                    │
+│                                                          │
+│  Bamm's Soul Essence: 3%                                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+[Bleeding]
+First appearance: Chapter 4

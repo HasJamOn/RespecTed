@@ -1,20 +1,24 @@
-Book Title brainstorm for potential change.
+﻿-Book Title-
+
+A brainstorm for potential change.
 Ted the Respec"t"able
 Respec: "T"ed Able
 Ted Able, the Respecialist
 The Respecialist, Ted Able
 
 
-Potential Sidestories
+-Potential Sidestories-
+
 Bamm! - The origin story of Prio's brother from his perspective until he gains the name.
 
 Bamm's class is Berserker.
 Class trait - All damage received increases the strength of your next blow within the same minute as the damage is taken.
 
 
-MC:
-Ted Able
-Ted: Theodore is a Greek name meaning "gift of God"
+-Protagonist-
+
+Theodore “Ted” Able
+Theodore: is a Greek name meaning "gift of God"
 Able: Abel - Cain's brother, symbolism (Able -> Apel-> Hevel -> Evanescence) 
 
 
@@ -22,6 +26,9 @@ In Hebrew Baby Names the meaning of the name Jonas is: Gift from God.
 In American Baby Names the meaning of the name Jonas is: Gift from God.
 
 Evanescence is a word typically used to describe an event that fades from sight or memory, or sometimes the fleeting quality of worldly success. (Describing the book and story)
+
+
+-Volume 1 overview-
 
 Volume 1 of Respec Ted's story is telling the story of Ted regaining his Humanity. At the end becomes a humanoid clean slate and no more reference to his earlier life will be made. Ted took a deep breath. "I feel one with the air... Clean." His transformation gives Ted the family name Able.
 
@@ -48,13 +55,17 @@ Reward >
 [Bamm's Aping of the Monkeys]
 Learned the dialect of the Monkey kin.
 
-Characters Overview:
+
+-Characters Overview-
+
 Ted the Respecialist
 Petramus the Insatiable
 Bamm the Heroric Warrior Ape
 Shirley the Unsullied
 
-The Bamm Rejuvenation Party
+
+-The Bamm Rejuvenation Party-
+
 Ted (As Bamm)
 - Shiv of the Pashupatastra
 - Loincloth of Pneumatic Leap 
@@ -84,12 +95,14 @@ Analyze and project your surroundings accurately and compile it. Store it in an 
 Read the [Projection] stored in an object.
 
 [Regrowth]
-Regrow organic vessels by impuring your magic. Regrowth of large amounts of materials, like limbs, may take days of constant application of mana.
+Regrow organic vessels by pouring your mana. Regrowth of large amounts of materials, like limbs, may take days of constant application of mana.
 
 [Quantum Leap]
 Teleport between two points.
 
-- Petramus' Garden -
+
+-Petramus' Garden-
+
 Style and symbolism
 Korean gardens are structured to live in harmony with pre-existing landscapes. Sites are chosen in favor of the energy flow called pungsu 풍수, geomancy which affects all aspects of life including health, wealth, and happiness. Unlike gardening styles of the west, the construction of a Korean garden must be done with as little disruption to the pre-existing site as possible, and can even lend from the surrounding view, such as mountains on the horizon, into its own appearance. The gardens can be found enclosed within walls of stone or brick or can blend seamlessly into its surroundings without a barrier.[3]
 
@@ -116,3 +129,6 @@ Flowers:
   Rocks: The symbolism of rocks can be found in their number and structure, for instance, three rocks in an arrangement can represent the three mountain gods in the Dangun creation story. Matthews notes that, “… rocks appear in two’s, three’s, nine’s, or twelves, although there are occasional extravagant arrangements of sixty.”[3] Rocks can be selected and assigned special names either based upon their appearance, or some unconnected meaning, however, no stones are taken from far distances and added to the garden.[3]
 
 Ponds: Ponds symbolize tranquility and stillness; inviting deep contemplation from visitors. Their bridges can symbolize moving from lower thought processes to more sacred thoughts, or the movement from life on Earth into the tranquil afterlife. The Daoist and Confucian belief that heaven is round and the Earth is square is often reflected in the appearance of ponds and their island; the pond being square in shape and the island being round. "Few Korean gardens are considered complete without at least one pond."[3]
+
+
+

@@ -1,0 +1,41 @@
+-Item Encyclopedia-
+
+[Shiv of the Pashupatastra]
+Legendary weapon wielded by Shiva. One of her personal weapons, dangerously alluring in it's destructive capabilities. Known to only be wielded by the greatest of warriors.
+
+[Loincloth of Pneumatic Leap]
+Gives access to [Pneumatic Leap]
+The strength of the Puma is channeled and explodes from your legs, giving you an incredible leaping power.
+
+Moderate Windup Delay
+0 MP cost
+
+[The Goggles of Orienteering]
+Gives access to [Orienteering]
+Read the [Projection] stored in an object.
+
+[The Map of Projection]
+Gives access to [Projection]
+Analyze and project your surroundings accurately and compile it. Store it in an object.
+
+[Stick of Regrowth]
+Gives access to [Regrowth]
+Regrow organic vessels by pouring your mana. Regrowth of large amounts of materials, like limbs, may take days of constant application of mana.
+
+[Rope of Quantum Leap] or [A Vendible Horrid Knish]
+Gives access to [Quantum Leap]
+Teleport between two points.
+
+[Dagger of Immobilization]
+
+[Shield of Deflection]
+
+
+
+
+
+
+
+
+
+
