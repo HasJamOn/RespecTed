@@ -53,7 +53,7 @@ A blue screen caught Ted's attention, it had been hovering to his left and may h
 │  Level 1 Respecialist                                    │
 │                                                          │
 │  HP:  ▨▨▨▨▨▨▨▨▨▨                                    │
-│  MP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│  MP:  ▨▨▨▭▭▭▭▭▭▭                                  │
 │                                                          │
 │  Status Effects:                                         │
 │  [ Peacebringer's Tranquil Mind ]                        │
