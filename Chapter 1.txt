@@ -1,53 +1,117 @@
 RESPEC, TED
-It all started in Ted’s dark damp room. Sheltered by his mess, with so little care, it was caked in grime, as if every corner isolated him from the outside through the disorder of his life. The floor was nowhere in sight, covered with filth. Trashbags, sodacans, and tons of sticky, crusty tissue paper littered the space, keeping them in a crunched up ball shape. This was Ted's apartment, he was a middle-aged gamer who lived off the lavish allowance his family apathetically sent, a steady pulse holding his world together. His days traced a dull, relentless orbit around the glowing screens. The orchestra of DragonDive Online's digital spirit —smashing, growling, and explosive noise—blasted from the speakers, followed by a victory symphony repeated throughout the day.
+Chapter 1 - Adepartment
+
+Ted’s dark damp room. Sheltered by his mess, with so little care, it was caked in grime, as if every corner isolated him from the outside through the disorder of his life. The floor was nowhere in sight, covered with filth. Trashbags, sodacans, and tons of sticky, crusty tissue paper littered the space, keeping them in a crunched up ball shape. This was Ted's apartment, he was a middle-aged gamer who lived off the lavish allowance his family apathetically sent, a steady pulse holding his world together. His days traced a dull, relentless orbit around the glowing screens. The orchestra of DragonDive Online's digital spirit —smashing, growling, and explosive noise—blasted from the speakers, followed by a victory symphony repeated throughout the day.
 Ted tore a bag of cheesy corn chips open, the crinkling foil walls parting into a greasy cavern of delight. He drew each finger past his lips, scraping up traces of cheese powder and smearing the rest on his jeans. His fingers, still tacky with powdered cheese, danced across the keyboard and mouse, marking each action with a greasy smear. His eyes, fixed on the glowing chaos, were the anchor in his messy, stagnant world.
 Ted, unaware of it being the last day in his apartment, was fighting a giant lizard, as part of the main quest line in a new game he was trying: DragonDive Online.
-(-Lizard King- Level 16) ▨▨▨▨▨▨▨▨▨▨
-[Healthy, Leeching, Summoning Roar, Poisonous Presence]
+
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  ( Lizard King — Level 16 )                              │
+│                                                          │
+│  ▨▨▨▨▨▨▨▨▨▨                                         │
+│                                                          │
+│  [ Healthy | Leeching | Summoning Roar | Poisonous       │
+│    Presence ]                                            │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 DragonDive Online was a generic mmorpg, he had reached level 23, as a mage, and was considering dropping it. This was par for the course for him. Ted would find new video-games on a bi-weekly basis and had never completed, or reached end-game in; any of them.
 Ted unleashed a final firebarrage bringing the Lizard King down. A blast of sound effects exploded from his speakers, it was a horrible mix of music and sound effects trying to overpower each other. He had gained a level from defeating the boss and the victory medley was fighting with the level up medley creating a horrible mix of noise.
--You have gained level 24-
-- 1 new Skill point to assign
-- 5 new attribute points to assign
-=You have defeated the Lizard King=
-You have earned a new feat: Lizard Regicide.
-Lizard Regicide:
-Damage dealt to Lizard kin increased by 5%
+
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│            YOU HAVE GAINED LEVEL 24                      │
+│                                                          │
+│   • 1 new Skill point to assign                          │
+│   • 5 new attribute points to assign                     │
+│                                                          │
+│            YOU HAVE DEFEATED THE LIZARD KING             │
+│                                                          │
+│   You have earned a new feat:                            │
+│   Lizard Regicide                                        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Lizard Regicide                                         │
+│                                                          │
+│  Damage dealt to Lizard kin increased by 5%              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
 Ted cringed and spoke his final thoughts on the game out loud, as if he was trying to convince himself to move on:
 "This boss was also just waaay too easy.. too choreographed and too many safe areas.. Actually, it does so little damage that I could probably have tanked it."
 He looted the Lizard King only to find a Rare Weapon for the Ranger class, it was useless to him, so he left it alone.
 "That's it, I am out! Why can't this game at least give me drops that I can actually use!" Ted's frustrations with the game didn't hold much water. He was overleveled and complained about the difficulty and yet he wanted better loot to improve his power future.
 Alt+F4. Uninstall. Web-browser opened, surfing the internet for his next gaming experience. Ted preferred the MMORPG genre, perhaps in search of belonging, even though he only interacted with other players when the gameplay required him to do so.
+Ted stumbled on a webpage with a game that promises quite the elusive experience.
+
+┌──────────────────────────────────────────────────────────┐
+│ https://www.motm.com/                                    │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  MAYHEM OF THE MACROCOSM                                 │
+│  ─────────────────────────                               │
+│  FORM YOUR SONG                                          │
+│  SETTLE. LIBERATE. EXPLORE. VANQUISH.                    │
+│                                                          │
+│  Be a Peacebringer in a procedurally generated world     │
+│  filled with dangers to overcome and supernatural        │
+│  phenomena to investigate and harvest for their powers.  │
+│  Do everything in your power to keep peace in your       │
+│  sector—then scale it up, extinguishing the evils of     │
+│  every kingdom to ultimately bring World Peace.          │
+│                                                          │
+│  Team up with other Peacebringers and govern the lands.  │
+│  Expend resources to push back enemy lines and reinforce │
+│  your own. Balance the economy, share prosperity, and    │
+│  keep stability across your people. Research new         │
+│  technologies from your discoveries and exploit enemy    │
+│  weaknesses to bring them down.                          │
+│                                                          │
+│  ─────────────────────────                               │
+│  FATHOMLESS AMOUNTS OF CONTENT                           │
+│                                                          │
+│  Classes • Adventures • Skills • Monsters • Feats        │
+│                                                          │
+│  Cultivate your inner saviour—we have the class for you. │
+│  Choose anything from a gallant Knight, a fierce Ranger, │
+│  or a wise Magician. Enter a persistent world where      │
+│  every adventure is unique and every success or failure  │
+│  permanently reshapes the world.                         │
+│                                                          │
+│  Moral choices ripple outward. Quests carry consequence. │
+│  Monsters respond—adapting their behavior and appearance │
+│  to player encounters. Defeat them before they evolve,   │
+│  destroy their nests before species spiral out of        │
+│  control, or watch them carve paths of devastation.      │
+│                                                          │
+│  ─────────────────────────                               │
+│  ENDLESS PROGRESSION — MACHINE LEARNING AT ITS CORE      │
+│                                                          │
+│  Built from the ground up to handle any player input,    │
+│  Mayhem of the Macrocosm removes invisible walls—both    │
+│  physical and figurative. Dig toward the world’s core or │
+│  reach into the sky: there is always something to        │
+│  discover. No barren voids. No false limits.             │
+│                                                          │
+│  ─────────────────────────                               │
+│  FREE TO PLAY                                            │
+│                                                          │
+│  Sign up and start playing!                              │
+│                                                          │
+│  Email:              [____________________]              │
+│  Password:           [____________________]              │
+│  Re-enter Password:  [____________________]              │
+│  Class:              [ None ▾ ]                          │
+│                                                          │
+│                [ ENTER ]                                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
 Another promising world: Macrocosm Mo-Online. Glowing text, endless lists, overblown hype: classes beyond imagination, persistent worlds, machine-learning chaos. Peacebringer. Knight. Magician. Ranger. Ted scrolled. Endless scrolling. Barbarian. Assassin. Diplomat. Candlemaker. Lobotomist. The names piled, portraits loaded and generated faster than he could process.
 
-https://www.motm.com/
-
--|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-
-Mayhem of the Macrocosm
-FORM YOUR SONG
--|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-
-SETTLE. LIBERATE.
-EXPLORE. VANQUISH.
-Be a Peacebringer, in a procedurally generated world filled with dangers to overcome and supernatural phenomenons to investigate and learn to harvest for it's powers. Do everything in your power to keep peace in your sector and scale it up to extinguish the evils of every kingdom ultimately bringing World Peace!
-Team up with other Peacebringers and govern the lands. Expend resources to push back enemy lines and reinforce your own. Keep the peace in your lands by balancing the economy and sharing it fairly amongst your people. Research and create new technologies from your discoveries and bring your enemies down through their weaknesses.
--|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-
-Fathomless amounts of Content!
-Classes. Adventures. Skills. Monsters. Feats.
-Cultivate your inner saviour, we have the Class for you. Pick anything from a gallant Knight, to a fierce Ranger or a wise Magician, we assure you that we have any class you may imagine and more. Join a Persistent world where every adventure is unique and your successes and failures will ring throughout, every quest you go on are imminent and will bring permanent changes to the world. Every moral choice you make will cause a ripple effect throughout the world. Fight responsive monsters! Mobs adapt to player encounters and change both behaviour and looks. Defeat the monsters before they grow too powerful and destroy their nests before the species evolves out of control, or they will carve their path leaving only death in their trail.
--|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-
-ENDLESS PROGRESSION WITH MACHINE LEARNING AT ITS CORE
-Mayhem of the Macrocosm is created from the bottom up to handle any possible player input to fulfill our goal of never letting players encounter an invisible wall both physically and figuratively. Wherever the player decides to go they won't be hitting an invisible barrier or a barren contentless void. Even if players attempt to dig down in search of the core of the world or reach out into the sky: There will be something to discover and keep players on their toes.
--|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-s-|=\\x//=|-
-Free to Play
-Sign up and start playing!
-Email: ______________
-Password: _________
-Re-enter Password: _________
-Class: none [select your class]
-[ENTER]
-
-Ted had stumbled on a webpage with a game that promises quite the elusive experience. 
 "What a scam... the procedural generation is probably just recolours of mobs with random selections of heads.."
 The advertising was very familiar to him, he had once spent his money on buying land and vehicles in a game, that supposedly would be like The Matrix, it was based on NFTs and cryptocurrency only for the game to never be made into more than tiles and images on a webpage. He still technically owned the NFTs and cryptocurrency associated with it, but, after development had stopped, its value was practically zero.
 "It mentions three of the most generic classes of any fantasy setting and then says it has classes beyond my imagination, what a joke! I am pretty sure it doesn't have.. a.. Nailbender class!"
@@ -70,29 +134,60 @@ Three classes were on the screen, the first two were still loading their portrai
 "Oh I guess not.. How did they end up so cheap on this one? It looks just like a typical button to reset your skill allocations, while all the other ones have detailed portraits. Maybe an error?" Ted chuckled to himself "I'll choose this one, if there is an actual game I want to see this. It should be able to entertain me for a while."
 Ted selected Respecializationist and was thrown back to the previous screen.
 
-Sign up and start playing!
-Email: ______________
-Password: _________
-Re-enter Password: _________
-Class: Respecializationist [select your class]
-[ENTER]
+┌──────────────────────────────────────────────────────────┐
+│  FREE TO PLAY                                            │
+│                                                          │
+│  Sign up and start playing!                              │
+│                                                          │
+│ Email:             [____________________]                │
+│ Password:          [____________________]                │
+│ Re-enter Password: [____________________]                │
+│ Class:             [ Respecializationist ▾ ]             │
+│                                                          │
+│                [ ENTER ]                                 │
+└──────────────────────────────────────────────────────────┘
 
-"It actually accepted it, I guess it really is a class. Well.. let's see how big the installation is going to be." Ted let out a loud laughter. As soon as he thought of how big the game would have to be, to fulfill all the promises, he was sure it wouldn't fit on his computer. If the game actually existed. Ted pressed [ENTER].
+"It actually accepted it, I guess it really is a class. Well.. let's see how big the installation is going to be." Ted let out a loud laughter. As soon as he thought of how big the game would have to be, to fulfill all the promises, he was sure it wouldn't fit on his computer. If the game actually existed. 
+Ted pressed [ENTER].
+
 A prompt appeared:
-|You have chosen Respecializationist, you will be bound to this fate. Are you sure? (Y/N)|
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  You have chosen [Respecializationist]                   │
+│  You will be bound to this fate.                         │
+│                                                          │
+│  Are you sure?                                           │
+│                                                          │
+│                 ( Y )        ( N )                       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
 "You will be bound to this fate, really? How dramatic.." Ted responded and pressed (Y)es.
 The chair screeched a tiny bit before the apartment fell silent. The fans stopped spinning. The screen was off. Ted wasn't present.
--=\||/=--=\||/=--=\||/=--=\||/=--=\||/=--=\||/=--=\||/=--=\||/=--=\||/=--=\||/=--=\||/=-
-Welcome to Mayhem of the Macrocosm!
 
-You have become a Peacebringer with the classification of Respecializationist.
-You have been granted the Class-trait: indecisive
-You start out your journey with [Your Belongings] as your gear.
-You have been assigned to protect and bring peace to: Thaer.
-
-indecisive: [Respec] cost reduced by 100%
-
-You wake up in a dark damp cave surrounded by fellow Peacebringers. Work together to survive, discover your abilities and bring peace to the world.
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Welcome to Mayhem of the Macrocosm!                     │
+│                                                          │
+│  You have become a Peacebringer with the classification  │
+│  of Respecializationist.                                 │
+│                                                          │
+│  You have been granted the Class-trait: indecisive       │
+│                                                          │
+│  You start out your journey with                         │
+│  [Your Belongings] as your gear.                         │
+│                                                          │
+│  You have been assigned to protect and bring peace to:   │
+│  Thaer.                                                  │
+│                                                          │
+│  indecisive:                                             │
+│  [Respec] cost reduced by 100%                           │
+│                                                          │
+│  You wake up in a dark damp cave surrounded by fellow    │
+│  Peacebringers. Work together to survive, discover your  │
+│  abilities and bring peace to the world.                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 Noise of ramblings, conversations on top of conversation, only achieved in densely crowded places like casinos or malls were bringing Ted out of sleep.
 "Guys! Guys! Wake up! We have been freaking isekaied! This has to be it! It feels too real to be a dream, hit me!" *Smack* "Ouch.. yep, still here."
@@ -129,13 +224,20 @@ A few Melee classes responded to his call, but most turned a deaf ear to his cal
 Ted pushed through to the back of the cave and cowered in fear.
 Rats sprawled around them and flanked the unprepared group. It was too late for tactics, the rats controlled the fight.
 Others joined Ted in his corner, it was mostly Magic users, who, just like Ted, was left with no way to fight. As they ran up on him, Ted raised his head, but his eyes were met, not with the others, but with.
-Level 1 Respecializationist
 
-HP:  ▨▨▨▨▨▨▨▨▨▨
-MP: ▨▨▨▨▨▨▨▨▨▨
-Status Effects: none
-Title: Peacebringer
-[Traits] [Skills] [Passive Cloud] [Inventory]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Level 1 Respecializationist                             │
+│                                                          │
+│  HP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│  MP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│                                                          │
+│  Status Effects: none                                    │
+│  Title: Peacebringer                                     │
+│                                                          │
+│  [Traits]  [Skills(1)]  [Passive Cloud]  [Inventory]     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 The screen! Ted had made it appear. He pondered shortly before announcing his theory to everybody.
 "Everybody sit down! You can only activate the character screen while sitting!" People closest to Ted sat down and began a ripple effect amongst the scared crowd of unarmed men, many not hearing Ted followed the flock reaching for any hope to survive.
@@ -147,21 +249,58 @@ Ted couldn't believe his ears, of all the classes presented to that man, he chos
 "If you are not going to fight, then give me the Ho-mi!" persuaded Ted.
 "No way!" the Farmer shouted back, he wasn't convinced to let go of his last defense.
 Ted turned back to the screen and pointed to [Skills] in desperation. It opened an empty screen, he had no skills. At the bottom was one sentence:
-[ 1 Unassigned Skillpoint ]
+
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Skills ]                                              │
+│                                                          │
+│  You have no skills.                                     │
+│                                                          │
+│  [ 1 Unassigned Skillpoint ]                             │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
 He once again pointed and another panel opened, this time full of Skills, there was even a sidebar indicating it was possible to scroll for more.
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Skills ]                                              │
+│                                                          │
+│  Summon Turtle                                           │
+│  Water Spike                                             │
+│  Divine Shield                                           │
+│  Harvest Soil                                            │
+│  Demonic Presence                                        │
+│  Cateyes                                                 │
+│  Flarekick                                               │
+│  ...                                                     │
+│                                                          │
+│  [ Scroll for more ]                                     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 The cave lit up in a warm burning light, revealing rats on every wall, with even some hanging on to the ceiling. A magic user had conjured a fireball in his hands.
 *Crackle-crackle* *Boooosh!*
 Magic users were fighting back the endless waves of plagued rats, they had figured out how to assign skills and discovered how to use them.
 Eventually only one man was still sitting, everyone else was either standing and fighting or dead on the ground. The man was swiping his hand repeatedly, it was Ted, scrolling through his endless list of possible Skills. 
-"Why are there so many choices!? They are not even in alphabetic order! This is the darn class screen all over again!" Ted shouted to himself in desperation, as people began falling nearby.
+"Why are there so many choices!? They are not even in alphabetic order! This is the darn class screen all over again!" Ted shouted to himself in desperation, as people fell near him.
 "Summon Turtle, Water Spike, Divine Shield, Harvest Soil, Demonic Presence, Cateyes, Flarekick.. no, no no no! Let me summon a dragon or emerge a volcano! I need something stronger!" Ted barely had a clue what any of the Skills do and could only guess based on their naming conventions.
 The cave where a group of newly arrived Peacebringers had shared in laughter was now a bloodbath with corpses of both men and rats littering the floor worse than Ted's apartment. The horde of rats had thinned down, only a couple dozen were left, but the remaining Peacebringers could be counted on one hand. They were all magic classes and they were running out of mana, some resorted to throwing fists in desperation. It was a hopeless struggle, their weak physique meant that the rats barely cared when they landed a direct punch. They were overwhelmed, rats chewed onto their arms and ripped them apart with ease.
 By now, Ted was getting bitten as well, he continuously scrolled down the list in defiance. Desperate to find a Skill, that may save him from imminent death. With one last struggle, before he succumbed to his wounds he picked a Skill.
 "This is it.. no amount of scrolling could possibly find a better gamble than this."
-[Reincarnation unlocked]
+
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Reincarnation unlocked ]                              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
 "either I double isekai this shit or this is the end.."
 Pain, chaos, screaming, screeching rats. Darkness.
-[Reincarnation triggered]
+
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Reincarnation triggered ]                             │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 
 
