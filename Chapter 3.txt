@@ -42,63 +42,93 @@ Continued as instructed, Ted pulled more snags up. Rock, Spin'nTwist, Push *crea
 
 Wh-what was that? *clack* *clack* Ted put his job on hold *clank* and scouted the vicinity for the strange *tap* *tap* sounds. He looked out into the deep forest, nothing of note. He looked back at the derooted *clack* trail of logs he was leaving behind, nothing unusual. Then Ted noticed the sounds were emitting from him. Worried he was experiencing some sort of mechanical failure, Ted sat down to check his status.
 
-Level 1 Respecialist
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Level 1 Respecialist                                    │
+│                                                          │
+│  HP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│  MP:  ▨▨▨▨▨▨▨▨▨▨                                    │
+│                                                          │
+│  Status Effects:                                         │
+│  [ Peacebringer's Tranquil Mind ]                        │
+│  [ Petramus' Puppetry ]                                  │
+│                                                          │
+│  Title: Peacebringer                                     │
+│                                                          │
+│  (2 new notifications)                                   │
+│                                                          │
+│  [ Traits ]  [ Skills ]  [ Passive Cloud ]  [ Inventory ]│
+│  [ Quests ]                                              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-HP: ▨▨▨▨▨▨▨▨▨▨
-
-MP: ▨▨▨▨▨▨▨▨▨▨
-
-Status Effects: [Peacebringer's Tranquil Mind], [Petramus' Puppetry]
-
-Title: Peacebringer
-
-(2 new notifications)
-
-[Traits] [Skills] [Passive Cloud] [Inventory] [Quests]
 
 I haven't taken any damage and I still got more than 20% Mana left. At a glance, nothing *clack* *clack* *clack* explains the sounds.
 
 He stared into the garden, down the path, at the tower. Petramus would probably just disassemble me, if I approached him with this, Ted concluded, I must do what I can to investigate this myself.
 
 Ted checked his notifications.
-
-Notifications
-
-You have gained the trait: [Body Dissociation]
-
-You have gained the trait: [Rat Residue]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Notifications                                           │
+│                                                          │
+│  You have gained the trait: [ Body Dissociation ]        │
+│  You have gained the trait: [ Rat Residue ]              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 These naming conventions reminded Ted of the scarring events that unfolded back in the dark damp cave. Seeing this would have send chills down his spine, if he had one.
 
 He checked both traits.
 
-[Body Dissociation]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Body Dissociation ]                                   │
+│                                                          │
+│  You have experienced having your soul separated from    │
+│  your flesh and bones and learned your body was a        │
+│  replaceable vessel. Your mind and body are autonomous.  │
+│  You have discovered that true death lies in your Soul   │
+│  Essence dissipating.                                    │
+│                                                          │
+│  Relations between Mental and Physical trauma have       │
+│  been disconnected; you no longer associate the loss     │
+│  of vital body functionality with imminent death.        │
+│                                                          │
+│  Metaphysical Proficiency has increased.                 │
+│  Soul Essence Density has significantly increased.       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-You have experienced having your soul separated from your flesh and bones and learned your body was a replaceable vessel. Your mind and body autonomous. You have discovered that true death lies in your Soul Essence dissipating.
-
-Relations between Mental and Physical trauma have been disconnected, you no longer associate the loss of vital body functionality with imminent death.
-
-Metaphysical Proficiency has increased.
-
-Soul Essence Density has significantly increased.
 
 A reward for going through the [Reincarnation], a new understanding of life and death and a strengthened soul. Ted was used to receiving simpler bonuses, such as damage buffs or drop rate increases, he was uncertain it's advantages, but was delighted nonetheless.
 
 *clank* The assault of tappy sounds started up again. *clank* *clank* It was relentless.
 
-[Rat Residue]
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Rat Residue ]                                         │
+│                                                          │
+│  Your soul has been partly consumed by Plague Rats,      │
+│  cursing you until your fragmented soul is freed.        │
+│                                                          │
+│  [ Curse of the Scorned ] acquired.                      │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-Your soul has been partly consumed by Plague Rats, cursing you until your fragmented soul is freed.
-
-[Curse of the Scorned] acquired.
 
 The second trait concerned Ted, it was bad news. Some plague rats had effectively consume fragments of his soul, throughout his death, before he escaped with [Reincarnation]. He would have to either hope a group of adventurers stumbles on the cave and put and end to it, or he would have to -somehow- do it himself.
 
 After reading about [Rat Residue] another notification popped up.
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Notifications                                           │
+│                                                          │
+│  You have revealed a hidden status effect:               │
+│  [ Curse of the Scorned ]                                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-Notifications
-
-You have revealed a hidden status effect: [Curse of the Scorned]
 
 The curse had been active since he died in the cave, but was concealed from the list of status effects until Ted read the trait.
 
@@ -112,21 +142,26 @@ Pinecones had been bouncing off Ted's numb body throughout the day, peculiar as 
 
 Could it be magic pinecones that remain invisible until they hit the ground? No, that couldn't be, the pinecones further in are clearly hanging from the branches. Ted's foolish train of thoughts was based on the revelation he had of curses being concealed from the status effects. I better check out [Curse of the Scorned] before looking into the strange pinecones any further.
 
-[Curse of the Scorned]
-
-You are despised, not for your actions, but for who you are. People in your presence eye you with immense contempt.
-
-Charisma significantly decreased.
-
-Fragmented Soul Essence: 3%
-
-(Plague Rat) 1%
-
-(Plague Rat) 1%
-
-(Plague Rat) 1%
-
-The three plague rats would have to die to lift the curse. Ted was unsure of its connotations and brushed it off as inconsequential, for now.
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ Curse of the Scorned ]                                │
+│                                                          │
+│  You are despised, not for your actions, but for who     │
+│  you are. People in your presence eye you with immense   │
+│  contempt.                                               │
+│                                                          │
+│  Charisma significantly decreased.                       │
+│                                                          │
+│  Fragmented Soul Essence: 3%                             │
+│    (Plague Rat) 1%                                       │
+│    (Plague Rat) 1%                                       │
+│    (Plague Rat) 1%                                       │
+│                                                          │
+│  The three Plague Rats would have to die to lift the     │
+│  curse. Ted was unsure of its connotations and brushed   │
+│  it off as inconsequential, for now.                     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 This doesn't explain the pinecones- maybe they are alive, animated pinecones, and following me? Ted figured it wouldn't be unusual given his circumstances.
 
@@ -142,6 +177,12 @@ Ted sat down once again. He wanted to check his Skills, he still needed to check
 
 He was met with another notification.
 
-Notifications
-
-You have discovered a Quest, [Deeprooted Conflict] has been added to your Quest log.
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  Notifications                                           │
+│                                                          │
+│  You have discovered a Quest:                            │
+│  [ Deeprooted Conflict ] has been added to your Quest    │
+│  log.                                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
